@@ -12,3 +12,6 @@ http://spark-summit.org/wp-content/uploads/2014/07/A-Deeper-Understanding-of-Spa
 http://apache-spark-user-list.1001560.n3.nabble.com/Determine-number-of-running-executors-td19453.html
 http://apache-spark-user-list.1001560.n3.nabble.com/data-locality-td10142.html#a10418
 https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/ch04.html
+http://stackoverflow.com/questions/26273664/what-are-the-spark-transformations-that-causes-a-shuffle
+http://homepage.cs.latrobe.edu.au/zhe/files/SparkAPIMaster.pdf
+http://www.slideshare.net/databricks/strata-sj-everyday-im-shuffling-tips-for-writing-better-spark-programs
