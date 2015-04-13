@@ -15,3 +15,5 @@ https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/ch04
 http://stackoverflow.com/questions/26273664/what-are-the-spark-transformations-that-causes-a-shuffle
 http://homepage.cs.latrobe.edu.au/zhe/files/SparkAPIMaster.pdf
 http://www.slideshare.net/databricks/strata-sj-everyday-im-shuffling-tips-for-writing-better-spark-programs
+
+Docker stuff: https://www.mindmeister.com/389671722/docker-ecosystem
