@@ -6,6 +6,7 @@ Kafka consume exactly once: https://github.com/koeninger/kafka-exactly-once/blob
 
 sicp
 on lisp
+http://norvig.com/paip.html
 
 
 spark-tunning guide: 
