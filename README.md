@@ -8,6 +8,9 @@ sicp
 on lisp
 http://norvig.com/paip.html
 
+scsala school: 
+https://twitter.github.io/scala_school/basics.html
+
 
 spark-tunning guide: 
 http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/
